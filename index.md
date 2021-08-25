@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lucy Johnson's Portfolio
 
 You can use the [editor on GitHub](https://github.com/lucycjohn14/Lucy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
