@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #C7F0D0;
+	background: #FFFFFFF;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +21,7 @@ body {
 	
 }
 .nav {
-	background: #D2F0C0;
+	background: #FFFFFFF;
 	margin: 0px;
 	padding: 5;
 	float: left;
