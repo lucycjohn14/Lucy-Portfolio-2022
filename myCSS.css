@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Verdana, sans-serif;
+	font: 100%/1.4 Verdana sans-serif;
 }
 .homePage {
 	background: #FFFFFF;
@@ -12,7 +12,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #FFFFFFF;
+	background: #CCE8E5;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -22,7 +22,7 @@ body {
 	
 }
 .nav {
-	background: #FFFFFFF;
+	background: #E0FFF3;
 	margin: 0px;
 	padding: 5;
 	float: left;
